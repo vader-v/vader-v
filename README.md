@@ -1,6 +1,38 @@
-- 👋 Hi, I’m Amir Bullock
-- 👀 I’m interested in Software engineering, specifically in JavaScript and Python
-- 🌱 I’m currently learning Python and Docker containers
-- 💞️ I’m looking to collaborate on large-scale Python applications
-- 📫 How to reach me: https://www.linkedin.com/in/amir-bullock/
-Feel free to browse my repositories for past projects including RacRoom a team-made ReactJS application for trivia creation/ sharing.
+<div align="center">
+  <img align="center" src="https://i.imgur.com/02C2Yca.jpeg">
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vader-v&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vader-v&layout=compact&theme=react" /></a> 
+  <hr>
+  <h2> About me:</h2>
+  <h3>I'm a full stack software engineer certified with General Assembly's SEI course, based in Washington, D.C. I am also an avid video game enthusiast, and aspiring game dev.</h3>
+  <hr>
+  <div>
+  <h3> How to reach me:</h3>
+  <a href="https://www.linkedin.com/in/amir-bullock/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />  </a>
+  <a href=mailto:"amir.bullock9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </div>
+  <hr>
+  <div>
+    <h3> Familiar with:</h3>
+    <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Ubuntu-0078D6?style=flat-square&logo=Ubuntu&logoColor=white" />  </a>
+ <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&for-the-badge&logo=react-router&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&for-the-badge" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />  </a>
+    <a href="#"><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> </a>
+    <a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> </a>
+    <a href="#"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /> </a>
