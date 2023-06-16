@@ -4,7 +4,7 @@
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vader-v&layout=compact&theme=react" /></a> 
   <hr>
   <h2> About me:</h2>
-  <h3>I'm a full stack software engineer certified with General Assembly's SEI course, based in Washington, D.C. I am also an avid video game enthusiast, and aspiring game dev.</h3>
+  <h3>I am an exceptionally skilled and highly competent full stack software engineer, having obtained my prestigious certification through General Assembly's esteemed Software Engineering Immersive course. I possess an unwavering dedication to delivering flawless and top-notch solutions in the world of software development. Beyond my professional accomplishments, I am deeply passionate about the realm of video games, fueling my aspirations to become an influential game developer.</h3>
   <hr>
   <div>
   <h3> How to reach me:</h3>
